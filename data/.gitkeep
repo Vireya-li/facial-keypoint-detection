@@ -1,0 +1,7 @@
+# Data Directory
+
+Please place the Kaggle dataset in this directory:
+1. training.csv - Training data
+2. test.csv - Test data
+
+Download URL: https://www.kaggle.com/c/facial-keypoints-detection/data
